@@ -9,6 +9,7 @@
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82176869/154598844-c8393619-bef2-4fc4-b951-330105b303b1.png)
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82176869/154598909-eac34ec5-12b4-40aa-b9a4-7491874b9d29.png)
 
 ### Analysis of Outcomes Based on Goals
 
