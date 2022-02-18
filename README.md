@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![alt text] https://github.com/dkristek/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
