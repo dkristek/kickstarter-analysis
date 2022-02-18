@@ -7,12 +7,12 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82176869/154598844-c8393619-bef2-4fc4-b951-330105b303b1.png)
-
+The client had recently ran a campaign for a play that ended up failing. So they had an interest in seeing how other Theater campaigns had fared. A pivot table was used to create a line graph showing the amount of the different outcomes of Theater Kickstarter campaigns vs the month of the campaign's launch. From the graph, it is observed that the month of launch and the amount of canceled campaigns do not seem to share an association. It is also clear that May, June, and July have the most amount of succesful Kickstarter launches. 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82176869/154598909-eac34ec5-12b4-40aa-b9a4-7491874b9d29.png)
 
 ### Analysis of Outcomes Based on Goals
-
+This part of the analysis looks at how the set financial goal at launch impacts the outcome of the campaign. 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82176869/154598844-c8393619-bef2-4fc4-b951-330105b303b1.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
