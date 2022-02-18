@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+This project analyzes the outcomes of various Kicstarter campaigns. The project looks at the outcome of theater based Kickstarter campaigns based on the launch date. It also looks at the outcome of campaigns based on the financial goal of the campaign at launch.
 ### Purpose
 
 ## Analysis and Challenges
