@@ -11,7 +11,7 @@ The client had recently ran a campaign for a play that ended up failing. So they
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82176869/154598909-eac34ec5-12b4-40aa-b9a4-7491874b9d29.png)
 
 ### Analysis of Outcomes Based on Goals
-This part of the analysis looks at how the set financial goal at launch impacts the outcome of the campaign. 
+This part of the analysis looks at how the set financial goal at launch impacts the outcome of the campaign. The percentage of failures, cancellations, and successes were calculated with different ranges of financial goals. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82176869/154598844-c8393619-bef2-4fc4-b951-330105b303b1.png)
 ### Challenges and Difficulties Encountered
 
