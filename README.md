@@ -19,7 +19,9 @@ While no difficulties or challenges were encountered during the analyis we will 
 From the Theater Outcomes based on Launch Date graph, it is possible to conclude that Theater kickstarter campaigns have the most success when launching between the months of May and July. We also came to the conclusion that the month of launch does not prove to have a significant association with the number of canceled kickstarter campaigns. 
 
 From the Outcome Based on Goals analysis it can be concluded that campaigns that launched with a goal of less than $5000 tended to have best outcomes (high successes and low cancellations/failures). Generally speaking, the higher the goal is the more likely it is that the outcome was negative (failed or canceled). 
-- What are some limitations of this dataset?
-This dataset's limitations include...
-- What are some other possible tables and/or graphs that we could create?
-Other graphs and table that could be useful to the analysis would be...
+
+While this dataset includes a few thousand campaigns it is still just a very small portion of the total Kickstarter campaigns. Without knowing how this data was collected and how the campaigns were chosen it is possible that the dataset does not accurately represent the population of all Kickstarter campaigns. It is possible that the campaigns were not randomly selected and could possibly have a selection bias.
+
+There are a variety of different graphs and tables that could be of interest to the client. For theater specific data we could look at country of origin vs outcome. This would show whether theater campaigns do better in specific regions. It might also be of interest to look at average donor amount vs outcome and average donation amount vs outcome, for both theater campaigns and all campaigns. Looking at these two statistics could grant the client insight into the scale or reach of theater campaigns. Are the successful theater campaigns getting lots of small donations from a large number of people? Are they getting large donations from a small amount of people?
+
+    It could also be interesting to look at the campaign being featured in the spotlight vs outcome and the campaign being a staff pick vs outcomes. This could show a possible association between these two ways of highlighting a kickstarter campaign and the success of the campaign.
